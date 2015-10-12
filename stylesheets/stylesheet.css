@@ -221,7 +221,14 @@ hr {
   opacity: 0.6;
   background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
-
+.btn-zip .icon {
+  opacity: 0.6;
+  background: url("../images/zip.png") 0 0 no-repeat;
+}
+.btn-tar .icon {
+  opacity: 0.6;
+  background: url("../images/tar.png") 0 0 no-repeat;
+}
 /* Links
    a, a:hover, a:visited
 */
