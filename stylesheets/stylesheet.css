@@ -257,4 +257,8 @@ a {
 }
 .clone-url{
   color: #2DA6C4;
+  font-weight: bold;
+}
+.clone-url:hover{
+  color: #fff;
 }
