@@ -264,6 +264,8 @@ a {
 }
 .corazon {
   color: red;
+  font-weight: bold;
+  font-size: 18px;
   -moz-animation-duration: 400ms;
   -moz-animation-name: blink;
   -moz-animation-iteration-count: infinite;
