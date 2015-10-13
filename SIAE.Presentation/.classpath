@@ -59,5 +59,9 @@
 	<classpathentry kind="lib" path="lib/poi/stax-api-1.0.1.jar"/>
 	<classpathentry kind="lib" path="lib/poi/xmlbeans-2.3.0.jar"/>
 	<classpathentry kind="lib" path="lib/jdbc/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="lib/primafaces/all-themes-1.0.10.jar"/>
+	<classpathentry kind="lib" path="lib/primafaces/atmosphere-runtime-2.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/primafaces/rome-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/primafaces/jdom-1.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
